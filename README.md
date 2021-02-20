@@ -2,6 +2,10 @@
   <img src="https://github.com/globalaihub/introduction-to-machine-learning/blob/main/Decision%20Trees/img/logo.png">
 </div>
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/globalaihub/introduction-to-python/master/)
+[![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?template=data-science&url=https://github.com/globalaihub/introduction-to-python/blob/master/Day0.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/globalaihub/introduction-to-python/blob/master/)
+
 # Welcome to our Introduction to Python Programming Course Repo!
 
 You can find more information about our Introduction to Machine Learning Course by visiting [Course Website.](https://globalaihub.com/introduction-to-machine-learning/)
